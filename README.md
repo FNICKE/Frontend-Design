@@ -8,3 +8,11 @@ Frontend Design is a simple, clean, and attractive website built using HTML and 
 - Hero Section: A bold hero section with a call-to-action (CTA) button to encourage user engagement.
 - Feature Cards: A section showcasing key features of the website with hover effects on each card.
 - Clean Design: A simple and minimalistic design, making it easy to navigate and visually appealing.
+
+## Tech Stack
+- HTML: For the structure of the webpage.
+- CSS: For styling and visual design.
+
+## Project Preview
+
+![Alt text]()
