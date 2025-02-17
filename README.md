@@ -15,6 +15,7 @@ Frontend Design is a simple, clean, and attractive website built using HTML and 
 
 ## Project Preview
 
-images/Screenshot 2025-02-17 143213.png
+![Screenshot](Screenshot%202025-02-17%20143213.png)
+
 
 
