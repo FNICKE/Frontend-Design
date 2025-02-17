@@ -15,4 +15,5 @@ Frontend Design is a simple, clean, and attractive website built using HTML and 
 
 ## Project Preview
 
-![Alt text](C:\Users\SACHIN RATHOD\Documents\Custom Office Templates\OneDrive\Pictures\Screenshots)
+![External Image](https://example.com/path/to/image.png)
+
